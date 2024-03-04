@@ -20,7 +20,7 @@ ua-parser
 pyyaml
 jinja2
 django_jinja>=2.5.0
-llist
+pyllist
 requests
 django-fernet-fields @ git+https://github.com/DMOJ/django-fernet-fields.git
 pyotp
